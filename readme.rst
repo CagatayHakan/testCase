@@ -16,7 +16,7 @@ Login Controllerde;
 	değişkeni sayesinde oturum açmadan diğer sayfalara erişim sağlanamıyor.
 	Ek olarak oturum sonlandırma fonksiyonu mevcut.
 	
-Porjeye eklenebilecek sayısız özellik mevcut sadece ve anlaşılır bir şekilde yazmaya çalıştım ilginiz için teşekkürler..
+Porjeye eklenebilecek sayısız özellik mevcut sade ve anlaşılır bir şekilde yazmaya çalıştım ilginiz için teşekkürler..
 
 NOT: Veritabanı olarak Mysql kullandım. Gerekli SQL dosyası ana klasörde mevcut ismi 'coflow.sql'
 	iki adet tablo mevcut 'admin' ve 'product'.
