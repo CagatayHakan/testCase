@@ -14,7 +14,7 @@ Login Controllerde;
 	Şifre için xss kontrolü ve hash işlemi yapıldı. Kullanıcı adı ve şifresinin eşleşmesi durumunda 
 	giriş yapan kullanıcının bilgileri session değişkenine aktarılıyor. Session
 	değişkeni sayesinde oturum açmadan diğer sayfalara erişim sağlanamıyor.
-	Birde oturup sonlandırma fonksiyonu mevcut.
+	Ek olarak oturum sonlandırma fonksiyonu mevcut.
 	
 Porjeye eklenebilecek sayısız özellik mevcut sadece ve anlaşılır bir şekilde yazmaya çalıştım ilginiz için teşekkürler..
 
